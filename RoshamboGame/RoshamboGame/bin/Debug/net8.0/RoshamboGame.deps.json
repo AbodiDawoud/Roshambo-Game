@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RoshamboGame/1.0.0": {
+        "dependencies": {
+          "TConsole": "1.2.0"
+        },
+        "runtime": {
+          "RoshamboGame.dll": {}
+        }
+      },
+      "TConsole/1.2.0": {
+        "runtime": {
+          "lib/net8.0/TConsole.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RoshamboGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TConsole/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jmrPbfhybG7swmfd3TJZBZPQc+iSkxRKWUlQRUvHngNrtvqd1+HoYfJ0/QWf3Jz0O0fUHucwQfiuKxUWTe3jAg==",
+      "path": "tconsole/1.2.0",
+      "hashPath": "tconsole.1.2.0.nupkg.sha512"
+    }
+  }
+}

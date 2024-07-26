@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\bin\Debug\net8.0\RoshamboGame.exe
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\bin\Debug\net8.0\RoshamboGame.deps.json
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\bin\Debug\net8.0\RoshamboGame.runtimeconfig.json
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\bin\Debug\net8.0\RoshamboGame.dll
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\bin\Debug\net8.0\RoshamboGame.pdb
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\obj\Debug\net8.0\RoshamboGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\obj\Debug\net8.0\RoshamboGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\obj\Debug\net8.0\RoshamboGame.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\obj\Debug\net8.0\RoshamboGame.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\obj\Debug\net8.0\RoshamboGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\obj\Debug\net8.0\RoshamboGame.dll
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\obj\Debug\net8.0\refint\RoshamboGame.dll
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\obj\Debug\net8.0\RoshamboGame.pdb
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\obj\Debug\net8.0\RoshamboGame.genruntimeconfig.cache
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\obj\Debug\net8.0\ref\RoshamboGame.dll
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\bin\Debug\net8.0\TConsole.dll
+C:\Users\Admin\Documents\CSharp Projects\RoshamboGame\RoshamboGame\obj\Debug\net8.0\Roshambo.4483C6F2.Up2Date

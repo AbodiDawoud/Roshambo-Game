@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KQXZ7aOMNiJwv9pBxo5BBAKEf81WRwFioBCPUsGkP4BcX0tk/rEwcgzooNj5oZXKu+Vi9snt5ZqBHQm34lmfhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\CSharp Projects\\RoshamboGame\\RoshamboGame\\RoshamboGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\tconsole\\1.2.0\\tconsole.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
